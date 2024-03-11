@@ -4,7 +4,7 @@ This project contains a Jenkins shared library for automating CI/CD pipelines. T
 
 ## Description
 
-The Jenkins shared library is loaded from a Git repository and includes functions for building a JAR file, building and pushing a Docker image, and deploying an application.
+The Jenkins shared library is loaded from a Git repository and includes functions for building a vars file, building and pushing a Docker image, and deploying an application.
 
 ## Usage
 
